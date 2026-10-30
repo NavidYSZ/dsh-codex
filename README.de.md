@@ -1,5 +1,7 @@
 # dsh-codex
 
+> **Du suchst die eigenständige App?** Installiere [Aether (dsh-codex-rs)](https://github.com/NavidYSZ/dsh-codex-rs) über die [Releases](https://github.com/NavidYSZ/dsh-codex-rs/releases). Aether läuft neben DeepSeek Harness und verwendet eigene Daten. **Dieses Repository enthält das ursprüngliche DSH-Plugin**: Die folgende Installation erweitert deine bestehende DeepSeek-Harness-App.
+
 [English](README.md)
 
 Ein Plugin-Bundle für [DeepSeek Harness](https://www.deepseek.com/harness/)
